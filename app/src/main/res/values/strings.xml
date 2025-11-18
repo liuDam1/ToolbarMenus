@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ToolbarMenus</string>
+
+    <string name="MENU_OPC_ABRIR">Opción Abrir</string>
+    <string name="MENU_OPC_CERRAR">Opción Cerrar</string>
+    <string name="MENU_OPC_3">Opción3</string>
+    <string name="MENU_OPC_4">Opción4</string>
 </resources>
